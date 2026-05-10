@@ -356,3 +356,6 @@ Recomendações Futuras
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [Metasploitable 2 on SourceForge](https://sourceforge.net/projects/metasploitable/)
+
+[senhas-simples.txt](https://github.com/user-attachments/files/27562894/senhas-simples.txt)
+[usuarios.txt](https://github.com/user-attachments/files/27562895/usuarios.txt)
